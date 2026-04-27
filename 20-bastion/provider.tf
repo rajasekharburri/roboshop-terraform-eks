@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "practice-s3-buket-123"
+    bucket = "practice-s3-1212121"
     key    = "roboshop-eks-bastion"
     region = "us-east-1"
     use_lockfile = true
